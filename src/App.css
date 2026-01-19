@@ -1,0 +1,21 @@
+/* App.css */
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* center horizontally */
+  padding-top: 20px;     /* start from top */
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 10px 0;
+  width: 300px;
+  text-align: center;
+}
+
+button {
+  margin-bottom: 10px;
+}
